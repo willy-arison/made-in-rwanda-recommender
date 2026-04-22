@@ -1,0 +1,17 @@
+# Core
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+matplotlib
+
+# Jupyter for eval notebook
+jupyter>=1.0.0
+nbformat>=5.0.0
+
+# CLI
+argparse  # built-in, listed for clarity
+
+sentence-transformers
+
+

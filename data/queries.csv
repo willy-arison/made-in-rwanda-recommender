@@ -1,0 +1,76 @@
+query_id,query,language,global_best_match,global_brand
+Q-0001,leather boots,en,Amazon Basics leather boots,Amazon Basics
+Q-0002,gift for wife,en,Forever 21 gift for wife,Forever 21
+Q-0003,handmade bag,en,Mango handmade bag,Mango
+Q-0004,traditional basket,en,Adidas traditional basket,Adidas
+Q-0005,Rwandan souvenirs,en,Adidas Rwandan souvenirs,Adidas
+Q-0006,wedding gift,en,Shein wedding gift,Shein
+Q-0007,home decoration,en,Amazon Basics home decoration,Amazon Basics
+Q-0008,men's wallet,en,Mango men's wallet,Mango
+Q-0009,women's dress,en,H&M women's dress,H&M
+Q-0010,leather belt,en,Amazon Basics leather belt,Amazon Basics
+Q-0011,wooden sculpture,en,Levi's wooden sculpture,Levi's
+Q-0012,beaded necklace,en,Walmart beaded necklace,Walmart
+Q-0013,coffee table decor,en,Forever 21 coffee table decor,Forever 21
+Q-0014,birthday present,en,Forever 21 birthday present,Forever 21
+Q-0015,artisan crafts,en,Forever 21 artisan crafts,Forever 21
+Q-0016,fashion accessories,en,Forever 21 fashion accessories,Forever 21
+Q-0017,leather shoes,en,Levi's leather shoes,Levi's
+Q-0018,woven baskets,en,Zara woven baskets,Zara
+Q-0019,kitenge fabric,en,Shein kitenge fabric,Shein
+Q-0020,African prints,en,Adidas African prints,Adidas
+Q-0021,bracelet for men,en,Levi's bracelet for men,Levi's
+Q-0022,earrings gold,en,Nike earrings gold,Nike
+Q-0023,shoulder bag,en,Zara shoulder bag,Zara
+Q-0024,wall hanging,en,Walmart wall hanging,Walmart
+Q-0025,storage baskets,en,Forever 21 storage baskets,Forever 21
+Q-0026,formal shirt,en,Mango formal shirt,Mango
+Q-0027,summer dress,en,Adidas summer dress,Adidas
+Q-0028,leather journal,en,Shein leather journal,Shein
+Q-0029,handbag cheap,en,Levi's handbag cheap,Levi's
+Q-0030,quality crafts,en,Adidas quality crafts,Adidas
+Q-0031,cadeau en cuir,fr,Adidas cadeau en cuir,Adidas
+Q-0032,sac à main femme,fr,H&M sac à main femme,H&M
+Q-0033,panier traditionnel,fr,Amazon Basics panier traditionnel,Amazon Basics
+Q-0034,décor maison,fr,Levi's décor maison,Levi's
+Q-0035,bijoux artisanaux,fr,Shein bijoux artisanaux,Shein
+Q-0036,ceinture en cuir,fr,Amazon Basics ceinture en cuir,Amazon Basics
+Q-0037,robe africaine,fr,Shein robe africaine,Shein
+Q-0038,chaussures en cuir,fr,Shein chaussures en cuir,Shein
+Q-0039,collier perles,fr,H&M collier perles,H&M
+Q-0040,portefeuille homme,fr,Mango portefeuille homme,Mango
+Q-0041,boucles d'oreilles,fr,Zara boucles d'oreilles,Zara
+Q-0042,artisanat rwandais,fr,Forever 21 artisanat rwandais,Forever 21
+Q-0043,vannerie traditionnelle,fr,Forever 21 vannerie traditionnelle,Forever 21
+Q-0044,tissu kitenge,fr,Nike tissu kitenge,Nike
+Q-0045,souvenir du Rwanda,fr,Amazon Basics souvenir du Rwanda,Amazon Basics
+Q-0046,tableau mural,fr,Walmart tableau mural,Walmart
+Q-0047,vêtements africains,fr,Adidas vêtements africains,Adidas
+Q-0048,bracelet cuir,fr,Shein bracelet cuir,Shein
+Q-0049,poterie décorative,fr,Mango poterie décorative,Mango
+Q-0050,linge de maison,fr,Forever 21 linge de maison,Forever 21
+Q-0051,sac en kitenge pas cher,mix,Forever 21 sac en kitenge pas cher,Forever 21
+Q-0052,traditional igitenge dress,mix,Zara traditional igitenge dress,Zara
+Q-0053,agaseke basket prix,mix,Nike agaseke basket prix,Nike
+Q-0054,cadeau umuhungu,mix,Adidas cadeau umuhungu,Adidas
+Q-0055,beaded necklace rwandais,mix,Adidas beaded necklace rwandais,Adidas
+Q-0056,leather agatagara,mix,Amazon Basics leather agatagara,Amazon Basics
+Q-0057,custom imishanana,mix,Levi's custom imishanana,Levi's
+Q-0058,basket dekorasi,mix,Zara basket dekorasi,Zara
+Q-0059,imikenyero shoes,mix,Forever 21 imikenyero shoes,Forever 21
+Q-0060,Rwanda craft cadeau,mix,Mango Rwanda craft cadeau,Mango
+Q-0061,lether boots,en-misspelled,Walmart lether boots,Walmart
+Q-0062,hand made bag,en-misspelled,Forever 21 hand made bag,Forever 21
+Q-0063,tradishional basket,en-misspelled,Nike tradishional basket,Nike
+Q-0064,souvineer,en-misspelled,Walmart souvineer,Walmart
+Q-0065,birfday gift,en-misspelled,Adidas birfday gift,Adidas
+Q-0066,accesories,en-misspelled,Nike accesories,Nike
+Q-0067,wallat,en-misspelled,Walmart wallat,Walmart
+Q-0068,neclace,en-misspelled,Nike neclace,Nike
+Q-0069,earings,en-misspelled,Amazon Basics earings,Amazon Basics
+Q-0070,bracelett,en-misspelled,Adidas bracelett,Adidas
+Q-0071,cado en cuir,fr-misspelled,Forever 21 cado en cuir,Forever 21
+Q-0072,panier main,fr-misspelled,Zara panier main,Zara
+Q-0073,decorasion maison,fr-misspelled,Adidas decorasion maison,Adidas
+Q-0074,bijou fait main,fr-misspelled,Zara bijou fait main,Zara
+Q-0075,chaussure cuire,fr-misspelled,Mango chaussure cuire,Mango

@@ -1,0 +1,501 @@
+sku,title,description,category,material,origin_district,price_rwf,artisan_id,is_local
+RW-APP-0001,handmade traditional polyester robe,Handmade handmade polyester apparel made from Rusizi by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Rusizi,17990,ART-754,True
+RW-JEW-0002,artisan beads anklet,"Elegant artisan beads jewellery piece, handcrafted by Nyarugenge artisans from beads.",jewellery,beads,Nyarugenge,48903,ART-214,True
+RW-JEW-0003,traditional silver earrings,"Elegant traditional silver jewellery piece, handcrafted by Rusizi artisans from silver.",jewellery,silver,Rusizi,42788,ART-125,True
+RW-LEA-0004,modern genuine-leather leather belt,"Premium modern genuine-leather leather product, handcrafted in Kicukiro using traditional techniques.",leather,genuine-leather,Kicukiro,56851,ART-859,True
+RW-BAS-0005,modern banana-fibre storage basket,Beautiful modern banana-fibre basket handwoven by skilled artisans in Huye using banana-fibre.,basketry,banana-fibre,Huye,5026,ART-381,True
+RW-APP-0006,artisan silk apparel shirt,Handmade artisan silk apparel made from Nyagatare by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyagatare,23949,ART-350,True
+RW-JEW-0007,artisan beads ring set,"Elegant artisan beads jewellery piece, handcrafted by Nyamirambo artisans from beads.",jewellery,beads,Nyamirambo,25055,ART-328,True
+RW-JEW-0008,handmade beads earrings,"Elegant handmade beads jewellery piece, handcrafted by Rusizi artisans from beads.",jewellery,beads,Rusizi,26002,ART-242,True
+RW-BAS-0009,premium raffia gift basket,Beautiful premium raffia basket handwoven by skilled artisans in Kicukiro using raffia.,basketry,raffia,Kicukiro,23295,ART-854,True
+RW-HOM-0010,traditional clay vase,"Unique traditional clay home decor item, handmade in Huye with clay.",home-decor,clay,Huye,21077,ART-204,True
+RW-JEW-0011,premium silver earrings,"Elegant premium silver jewellery piece, handcrafted by Kicukiro artisans from silver.",jewellery,silver,Kicukiro,35891,ART-792,True
+RW-LEA-0012,modern sheepskin leather bag,"Premium modern sheepskin leather product, handcrafted in Musanze using traditional techniques.",leather,sheepskin,Musanze,43414,ART-858,True
+RW-JEW-0013,traditional beads ring set,"Elegant traditional beads jewellery piece, handcrafted by Rusizi artisans from beads.",jewellery,beads,Rusizi,39552,ART-658,True
+RW-HOM-0014,artisan clay candle holder,"Unique artisan clay home decor item, handmade in Nyagatare with clay.",home-decor,clay,Nyagatare,17956,ART-189,True
+RW-JEW-0015,artisan bone necklace,"Elegant artisan bone jewellery piece, handcrafted by Kicukiro artisans from bone.",jewellery,bone,Kicukiro,41220,ART-704,True
+RW-JEW-0016,artisan wood bracelet,"Elegant artisan wood jewellery piece, handcrafted by Rusizi artisans from wood.",jewellery,wood,Rusizi,36732,ART-532,True
+RW-BAS-0017,premium banana-fibre basket,Beautiful premium banana-fibre basket handwoven by skilled artisans in Huye using banana-fibre.,basketry,banana-fibre,Huye,3819,ART-132,True
+RW-APP-0018,traditional traditional polyester robe,Handmade traditional polyester apparel made from Huye by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Huye,19132,ART-130,True
+RW-APP-0019,handmade linen trousers,Handmade handmade linen apparel made from Rusizi by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Rusizi,21961,ART-195,True
+RW-BAS-0020,traditional papyrus woven bowl,Beautiful traditional papyrus basket handwoven by skilled artisans in Rusizi using papyrus.,basketry,papyrus,Rusizi,3677,ART-323,True
+RW-HOM-0021,handmade clay throw pillow,"Unique handmade clay home decor item, handmade in Nyarugenge with clay.",home-decor,clay,Nyarugenge,44721,ART-338,True
+RW-LEA-0022,premium cowhide leather jacket,"Premium premium cowhide leather product, handcrafted in Nyagatare using traditional techniques.",leather,cowhide,Nyagatare,33289,ART-617,True
+RW-BAS-0023,modern sisal gift basket,Beautiful modern sisal basket handwoven by skilled artisans in Rubavu using sisal.,basketry,sisal,Rubavu,14110,ART-716,True
+RW-JEW-0024,handmade silver bracelet,"Elegant handmade silver jewellery piece, handcrafted by Huye artisans from silver.",jewellery,silver,Huye,41630,ART-127,True
+RW-LEA-0025,artisan cowhide leather shoes,"Premium artisan cowhide leather product, handcrafted in Gasabo using traditional techniques.",leather,cowhide,Gasabo,65150,ART-674,True
+RW-BAS-0026,handmade sisal wall decoration,Beautiful handmade sisal basket handwoven by skilled artisans in Rusizi using sisal.,basketry,sisal,Rusizi,14022,ART-303,True
+RW-BAS-0027,premium banana-fibre woven bowl,Beautiful premium banana-fibre basket handwoven by skilled artisans in Rubavu using banana-fibre.,basketry,banana-fibre,Rubavu,6656,ART-833,True
+RW-LEA-0028,handmade sheepskin leather jacket,"Premium handmade sheepskin leather product, handcrafted in Rubavu using traditional techniques.",leather,sheepskin,Rubavu,38517,ART-765,True
+RW-LEA-0029,traditional goatskin leather jacket,"Premium traditional goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,38807,ART-818,True
+RW-JEW-0030,artisan brass bracelet,"Elegant artisan brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,48612,ART-658,True
+RW-LEA-0031,handmade genuine-leather leather wallet,"Premium handmade genuine-leather leather product, handcrafted in Rusizi using traditional techniques.",leather,genuine-leather,Rusizi,62899,ART-529,True
+RW-APP-0032,premium silk jacket,Handmade premium silk apparel made from Huye by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Huye,18673,ART-325,True
+RW-JEW-0033,traditional bone necklace,"Elegant traditional bone jewellery piece, handcrafted by Nyamirambo artisans from bone.",jewellery,bone,Nyamirambo,29610,ART-559,True
+RW-HOM-0034,traditional fabric table mat,"Unique traditional fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,34339,ART-703,True
+RW-LEA-0035,artisan cowhide leather shoes,"Premium artisan cowhide leather product, handcrafted in Rubavu using traditional techniques.",leather,cowhide,Rubavu,21155,ART-384,True
+RW-APP-0036,traditional linen apparel shirt,Handmade traditional linen apparel made from Rusizi by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Rusizi,6248,ART-928,True
+RW-APP-0037,handmade polyester apparel shirt,Handmade handmade polyester apparel made from Nyamirambo by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Nyamirambo,25331,ART-990,True
+RW-BAS-0038,traditional sisal wall decoration,Beautiful traditional sisal basket handwoven by skilled artisans in Rusizi using sisal.,basketry,sisal,Rusizi,23352,ART-106,True
+RW-BAS-0039,handmade raffia basket,Beautiful handmade raffia basket handwoven by skilled artisans in Nyamirambo using raffia.,basketry,raffia,Nyamirambo,9484,ART-877,True
+RW-HOM-0040,handmade metal vase,"Unique handmade metal home decor item, handmade in Huye with metal.",home-decor,metal,Huye,36743,ART-925,True
+RW-LEA-0041,handmade sheepskin leather jacket,"Premium handmade sheepskin leather product, handcrafted in Huye using traditional techniques.",leather,sheepskin,Huye,43675,ART-263,True
+RW-BAS-0042,premium banana-fibre wall decoration,Beautiful premium banana-fibre basket handwoven by skilled artisans in Musanze using banana-fibre.,basketry,banana-fibre,Musanze,8873,ART-814,True
+RW-BAS-0043,premium bamboo basket,Beautiful premium bamboo basket handwoven by skilled artisans in Musanze using bamboo.,basketry,bamboo,Musanze,9260,ART-532,True
+RW-HOM-0044,traditional stone candle holder,"Unique traditional stone home decor item, handmade in Gasabo with stone.",home-decor,stone,Gasabo,12329,ART-448,True
+RW-LEA-0045,premium sheepskin leather wallet,"Premium premium sheepskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,sheepskin,Kicukiro,22726,ART-384,True
+RW-JEW-0046,handmade wood bracelet,"Elegant handmade wood jewellery piece, handcrafted by Rusizi artisans from wood.",jewellery,wood,Rusizi,39589,ART-259,True
+RW-JEW-0047,handmade bone necklace,"Elegant handmade bone jewellery piece, handcrafted by Gisenyi artisans from bone.",jewellery,bone,Gisenyi,15640,ART-320,True
+RW-BAS-0048,modern papyrus storage basket,Beautiful modern papyrus basket handwoven by skilled artisans in Musanze using papyrus.,basketry,papyrus,Musanze,21255,ART-881,True
+RW-HOM-0049,artisan clay candle holder,"Unique artisan clay home decor item, handmade in Nyamirambo with clay.",home-decor,clay,Nyamirambo,31123,ART-444,True
+RW-BAS-0050,handmade papyrus basket,Beautiful handmade papyrus basket handwoven by skilled artisans in Gisenyi using papyrus.,basketry,papyrus,Gisenyi,23592,ART-204,True
+RW-BAS-0051,handmade papyrus wall decoration,Beautiful handmade papyrus basket handwoven by skilled artisans in Gasabo using papyrus.,basketry,papyrus,Gasabo,24326,ART-194,True
+RW-HOM-0052,modern fabric candle holder,"Unique modern fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,40850,ART-489,True
+RW-APP-0053,premium linen jacket,Handmade premium linen apparel made from Musanze by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Musanze,5663,ART-199,True
+RW-JEW-0054,artisan brass anklet,"Elegant artisan brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,9251,ART-467,True
+RW-LEA-0055,handmade cowhide leather wallet,"Premium handmade cowhide leather product, handcrafted in Nyarugenge using traditional techniques.",leather,cowhide,Nyarugenge,76602,ART-967,True
+RW-APP-0056,handmade silk jacket,Handmade handmade silk apparel made from Gasabo by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Gasabo,9598,ART-452,True
+RW-LEA-0057,premium sheepskin leather bag,"Premium premium sheepskin leather product, handcrafted in Musanze using traditional techniques.",leather,sheepskin,Musanze,17911,ART-718,True
+RW-LEA-0058,traditional genuine-leather leather belt,"Premium traditional genuine-leather leather product, handcrafted in Gisenyi using traditional techniques.",leather,genuine-leather,Gisenyi,78168,ART-370,True
+RW-BAS-0059,premium bamboo woven bowl,Beautiful premium bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,6834,ART-926,True
+RW-APP-0060,traditional polyester dress,Handmade traditional polyester apparel made from Gasabo by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Gasabo,8654,ART-144,True
+RW-HOM-0061,modern fabric vase,"Unique modern fabric home decor item, handmade in Rubavu with fabric.",home-decor,fabric,Rubavu,22847,ART-847,True
+RW-HOM-0062,handmade fabric throw pillow,"Unique handmade fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,35081,ART-570,True
+RW-BAS-0063,modern banana-fibre woven bowl,Beautiful modern banana-fibre basket handwoven by skilled artisans in Kicukiro using banana-fibre.,basketry,banana-fibre,Kicukiro,4779,ART-649,True
+RW-LEA-0064,modern goatskin leather wallet,"Premium modern goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,58086,ART-227,True
+RW-BAS-0065,traditional bamboo basket,Beautiful traditional bamboo basket handwoven by skilled artisans in Nyarugenge using bamboo.,basketry,bamboo,Nyarugenge,13981,ART-487,True
+RW-BAS-0066,handmade raffia gift basket,Beautiful handmade raffia basket handwoven by skilled artisans in Kicukiro using raffia.,basketry,raffia,Kicukiro,5329,ART-180,True
+RW-JEW-0067,handmade beads earrings,"Elegant handmade beads jewellery piece, handcrafted by Huye artisans from beads.",jewellery,beads,Huye,12468,ART-665,True
+RW-HOM-0068,artisan stone table mat,"Unique artisan stone home decor item, handmade in Rusizi with stone.",home-decor,stone,Rusizi,24760,ART-400,True
+RW-HOM-0069,premium fabric throw pillow,"Unique premium fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,17941,ART-949,True
+RW-JEW-0070,artisan brass anklet,"Elegant artisan brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,28884,ART-743,True
+RW-HOM-0071,handmade fabric wall art,"Unique handmade fabric home decor item, handmade in Nyagatare with fabric.",home-decor,fabric,Nyagatare,18014,ART-733,True
+RW-LEA-0072,modern goatskin leather jacket,"Premium modern goatskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,goatskin,Gisenyi,57375,ART-982,True
+RW-LEA-0073,modern sheepskin leather wallet,"Premium modern sheepskin leather product, handcrafted in Huye using traditional techniques.",leather,sheepskin,Huye,32464,ART-470,True
+RW-JEW-0074,handmade bone ring set,"Elegant handmade bone jewellery piece, handcrafted by Nyagatare artisans from bone.",jewellery,bone,Nyagatare,9737,ART-691,True
+RW-BAS-0075,premium papyrus wall decoration,Beautiful premium papyrus basket handwoven by skilled artisans in Musanze using papyrus.,basketry,papyrus,Musanze,7230,ART-296,True
+RW-LEA-0076,handmade cowhide leather belt,"Premium handmade cowhide leather product, handcrafted in Gisenyi using traditional techniques.",leather,cowhide,Gisenyi,74863,ART-821,True
+RW-APP-0077,traditional linen apparel shirt,Handmade traditional linen apparel made from Nyarugenge by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Nyarugenge,18669,ART-171,True
+RW-APP-0078,handmade traditional cotton robe,Handmade handmade cotton apparel made from Rusizi by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Rusizi,10239,ART-146,True
+RW-BAS-0079,modern banana-fibre woven bowl,Beautiful modern banana-fibre basket handwoven by skilled artisans in Musanze using banana-fibre.,basketry,banana-fibre,Musanze,20668,ART-777,True
+RW-LEA-0080,modern sheepskin leather shoes,"Premium modern sheepskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,sheepskin,Gisenyi,71875,ART-333,True
+RW-BAS-0081,premium banana-fibre woven bowl,Beautiful premium banana-fibre basket handwoven by skilled artisans in Gasabo using banana-fibre.,basketry,banana-fibre,Gasabo,22560,ART-891,True
+RW-LEA-0082,handmade sheepskin leather wallet,"Premium handmade sheepskin leather product, handcrafted in Rubavu using traditional techniques.",leather,sheepskin,Rubavu,42057,ART-396,True
+RW-APP-0083,handmade silk apparel shirt,Handmade handmade silk apparel made from Nyamirambo by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyamirambo,31806,ART-181,True
+RW-HOM-0084,handmade wood table mat,"Unique handmade wood home decor item, handmade in Kicukiro with wood.",home-decor,wood,Kicukiro,42143,ART-975,True
+RW-HOM-0085,premium stone throw pillow,"Unique premium stone home decor item, handmade in Nyagatare with stone.",home-decor,stone,Nyagatare,16115,ART-338,True
+RW-HOM-0086,artisan fabric table mat,"Unique artisan fabric home decor item, handmade in Musanze with fabric.",home-decor,fabric,Musanze,31414,ART-987,True
+RW-JEW-0087,modern bone earrings,"Elegant modern bone jewellery piece, handcrafted by Kicukiro artisans from bone.",jewellery,bone,Kicukiro,19538,ART-203,True
+RW-HOM-0088,artisan metal table mat,"Unique artisan metal home decor item, handmade in Nyagatare with metal.",home-decor,metal,Nyagatare,21633,ART-489,True
+RW-LEA-0089,handmade cowhide leather belt,"Premium handmade cowhide leather product, handcrafted in Nyarugenge using traditional techniques.",leather,cowhide,Nyarugenge,43185,ART-384,True
+RW-BAS-0090,premium papyrus storage basket,Beautiful premium papyrus basket handwoven by skilled artisans in Rubavu using papyrus.,basketry,papyrus,Rubavu,11085,ART-564,True
+RW-JEW-0091,premium silver anklet,"Elegant premium silver jewellery piece, handcrafted by Nyamirambo artisans from silver.",jewellery,silver,Nyamirambo,13231,ART-750,True
+RW-LEA-0092,traditional genuine-leather leather jacket,"Premium traditional genuine-leather leather product, handcrafted in Rusizi using traditional techniques.",leather,genuine-leather,Rusizi,74562,ART-954,True
+RW-JEW-0093,traditional silver ring set,"Elegant traditional silver jewellery piece, handcrafted by Nyamirambo artisans from silver.",jewellery,silver,Nyamirambo,48222,ART-473,True
+RW-JEW-0094,artisan bone anklet,"Elegant artisan bone jewellery piece, handcrafted by Nyarugenge artisans from bone.",jewellery,bone,Nyarugenge,28972,ART-266,True
+RW-APP-0095,traditional cotton dress,Handmade traditional cotton apparel made from Nyarugenge by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyarugenge,6054,ART-479,True
+RW-JEW-0096,artisan bone ring set,"Elegant artisan bone jewellery piece, handcrafted by Musanze artisans from bone.",jewellery,bone,Musanze,10944,ART-463,True
+RW-JEW-0097,traditional wood necklace,"Elegant traditional wood jewellery piece, handcrafted by Gasabo artisans from wood.",jewellery,wood,Gasabo,31135,ART-314,True
+RW-HOM-0098,modern wood vase,"Unique modern wood home decor item, handmade in Rusizi with wood.",home-decor,wood,Rusizi,43437,ART-786,True
+RW-BAS-0099,modern banana-fibre gift basket,Beautiful modern banana-fibre basket handwoven by skilled artisans in Musanze using banana-fibre.,basketry,banana-fibre,Musanze,24926,ART-373,True
+RW-HOM-0100,handmade clay vase,"Unique handmade clay home decor item, handmade in Gasabo with clay.",home-decor,clay,Gasabo,29422,ART-818,True
+RW-BAS-0101,handmade sisal storage basket,Beautiful handmade sisal basket handwoven by skilled artisans in Rubavu using sisal.,basketry,sisal,Rubavu,5845,ART-799,True
+RW-BAS-0102,artisan banana-fibre gift basket,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Huye using banana-fibre.,basketry,banana-fibre,Huye,14497,ART-763,True
+RW-HOM-0103,handmade metal wall art,"Unique handmade metal home decor item, handmade in Rusizi with metal.",home-decor,metal,Rusizi,15956,ART-173,True
+RW-HOM-0104,handmade wood table mat,"Unique handmade wood home decor item, handmade in Nyagatare with wood.",home-decor,wood,Nyagatare,11449,ART-723,True
+RW-BAS-0105,premium raffia gift basket,Beautiful premium raffia basket handwoven by skilled artisans in Rubavu using raffia.,basketry,raffia,Rubavu,23275,ART-750,True
+RW-JEW-0106,artisan brass ring set,"Elegant artisan brass jewellery piece, handcrafted by Rusizi artisans from brass.",jewellery,brass,Rusizi,45426,ART-275,True
+RW-JEW-0107,premium wood bracelet,"Elegant premium wood jewellery piece, handcrafted by Nyarugenge artisans from wood.",jewellery,wood,Nyarugenge,28948,ART-646,True
+RW-APP-0108,traditional cotton trousers,Handmade traditional cotton apparel made from Gisenyi by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Gisenyi,33083,ART-846,True
+RW-JEW-0109,modern beads earrings,"Elegant modern beads jewellery piece, handcrafted by Nyamirambo artisans from beads.",jewellery,beads,Nyamirambo,12919,ART-350,True
+RW-HOM-0110,premium fabric vase,"Unique premium fabric home decor item, handmade in Nyamirambo with fabric.",home-decor,fabric,Nyamirambo,25216,ART-267,True
+RW-JEW-0111,traditional beads ring set,"Elegant traditional beads jewellery piece, handcrafted by Gisenyi artisans from beads.",jewellery,beads,Gisenyi,43085,ART-573,True
+RW-APP-0112,handmade silk apparel shirt,Handmade handmade silk apparel made from Nyarugenge by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyarugenge,24112,ART-488,True
+RW-BAS-0113,handmade sisal basket,Beautiful handmade sisal basket handwoven by skilled artisans in Musanze using sisal.,basketry,sisal,Musanze,14979,ART-376,True
+RW-BAS-0114,traditional bamboo wall decoration,Beautiful traditional bamboo basket handwoven by skilled artisans in Rusizi using bamboo.,basketry,bamboo,Rusizi,9497,ART-755,True
+RW-LEA-0115,artisan cowhide leather jacket,"Premium artisan cowhide leather product, handcrafted in Huye using traditional techniques.",leather,cowhide,Huye,48511,ART-804,True
+RW-JEW-0116,modern beads necklace,"Elegant modern beads jewellery piece, handcrafted by Musanze artisans from beads.",jewellery,beads,Musanze,49866,ART-670,True
+RW-JEW-0117,artisan wood necklace,"Elegant artisan wood jewellery piece, handcrafted by Nyarugenge artisans from wood.",jewellery,wood,Nyarugenge,6944,ART-324,True
+RW-HOM-0118,handmade fabric table mat,"Unique handmade fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,31704,ART-801,True
+RW-JEW-0119,traditional bone bracelet,"Elegant traditional bone jewellery piece, handcrafted by Nyagatare artisans from bone.",jewellery,bone,Nyagatare,16066,ART-432,True
+RW-APP-0120,modern polyester apparel shirt,Handmade modern polyester apparel made from Nyagatare by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Nyagatare,10946,ART-963,True
+RW-LEA-0121,handmade genuine-leather leather bag,"Premium handmade genuine-leather leather product, handcrafted in Rubavu using traditional techniques.",leather,genuine-leather,Rubavu,15355,ART-886,True
+RW-APP-0122,premium traditional polyester robe,Handmade premium polyester apparel made from Nyagatare by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Nyagatare,29044,ART-894,True
+RW-LEA-0123,modern cowhide leather jacket,"Premium modern cowhide leather product, handcrafted in Nyagatare using traditional techniques.",leather,cowhide,Nyagatare,58493,ART-157,True
+RW-HOM-0124,modern fabric throw pillow,"Unique modern fabric home decor item, handmade in Kicukiro with fabric.",home-decor,fabric,Kicukiro,33528,ART-334,True
+RW-BAS-0125,artisan banana-fibre basket,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Gasabo using banana-fibre.,basketry,banana-fibre,Gasabo,5502,ART-941,True
+RW-BAS-0126,modern raffia basket,Beautiful modern raffia basket handwoven by skilled artisans in Musanze using raffia.,basketry,raffia,Musanze,16860,ART-132,True
+RW-BAS-0127,handmade bamboo basket,Beautiful handmade bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,4166,ART-924,True
+RW-LEA-0128,artisan sheepskin leather shoes,"Premium artisan sheepskin leather product, handcrafted in Gasabo using traditional techniques.",leather,sheepskin,Gasabo,78713,ART-423,True
+RW-BAS-0129,premium sisal basket,Beautiful premium sisal basket handwoven by skilled artisans in Gasabo using sisal.,basketry,sisal,Gasabo,3096,ART-510,True
+RW-HOM-0130,handmade fabric candle holder,"Unique handmade fabric home decor item, handmade in Huye with fabric.",home-decor,fabric,Huye,13578,ART-374,True
+RW-JEW-0131,traditional brass earrings,"Elegant traditional brass jewellery piece, handcrafted by Kicukiro artisans from brass.",jewellery,brass,Kicukiro,31638,ART-167,True
+RW-JEW-0132,handmade wood earrings,"Elegant handmade wood jewellery piece, handcrafted by Nyarugenge artisans from wood.",jewellery,wood,Nyarugenge,30758,ART-316,True
+RW-LEA-0133,traditional sheepskin leather belt,"Premium traditional sheepskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,sheepskin,Gisenyi,42193,ART-680,True
+RW-JEW-0134,handmade wood necklace,"Elegant handmade wood jewellery piece, handcrafted by Nyarugenge artisans from wood.",jewellery,wood,Nyarugenge,47326,ART-997,True
+RW-BAS-0135,handmade raffia storage basket,Beautiful handmade raffia basket handwoven by skilled artisans in Musanze using raffia.,basketry,raffia,Musanze,23101,ART-835,True
+RW-APP-0136,premium cotton apparel shirt,Handmade premium cotton apparel made from Gisenyi by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Gisenyi,13342,ART-422,True
+RW-JEW-0137,modern wood anklet,"Elegant modern wood jewellery piece, handcrafted by Huye artisans from wood.",jewellery,wood,Huye,23035,ART-317,True
+RW-BAS-0138,traditional banana-fibre wall decoration,Beautiful traditional banana-fibre basket handwoven by skilled artisans in Kicukiro using banana-fibre.,basketry,banana-fibre,Kicukiro,7787,ART-771,True
+RW-JEW-0139,traditional bone earrings,"Elegant traditional bone jewellery piece, handcrafted by Nyamirambo artisans from bone.",jewellery,bone,Nyamirambo,18440,ART-611,True
+RW-BAS-0140,traditional papyrus woven bowl,Beautiful traditional papyrus basket handwoven by skilled artisans in Kicukiro using papyrus.,basketry,papyrus,Kicukiro,15594,ART-505,True
+RW-BAS-0141,artisan banana-fibre gift basket,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Rusizi using banana-fibre.,basketry,banana-fibre,Rusizi,15917,ART-758,True
+RW-LEA-0142,traditional genuine-leather leather bag,"Premium traditional genuine-leather leather product, handcrafted in Nyarugenge using traditional techniques.",leather,genuine-leather,Nyarugenge,50694,ART-569,True
+RW-BAS-0143,modern banana-fibre storage basket,Beautiful modern banana-fibre basket handwoven by skilled artisans in Rubavu using banana-fibre.,basketry,banana-fibre,Rubavu,24158,ART-246,True
+RW-JEW-0144,traditional bone ring set,"Elegant traditional bone jewellery piece, handcrafted by Musanze artisans from bone.",jewellery,bone,Musanze,46447,ART-371,True
+RW-JEW-0145,traditional brass bracelet,"Elegant traditional brass jewellery piece, handcrafted by Musanze artisans from brass.",jewellery,brass,Musanze,16066,ART-242,True
+RW-HOM-0146,handmade metal vase,"Unique handmade metal home decor item, handmade in Nyamirambo with metal.",home-decor,metal,Nyamirambo,11402,ART-352,True
+RW-HOM-0147,traditional stone candle holder,"Unique traditional stone home decor item, handmade in Nyagatare with stone.",home-decor,stone,Nyagatare,9950,ART-862,True
+RW-LEA-0148,artisan cowhide leather bag,"Premium artisan cowhide leather product, handcrafted in Huye using traditional techniques.",leather,cowhide,Huye,35403,ART-674,True
+RW-HOM-0149,traditional metal throw pillow,"Unique traditional metal home decor item, handmade in Gasabo with metal.",home-decor,metal,Gasabo,33834,ART-651,True
+RW-LEA-0150,handmade cowhide leather shoes,"Premium handmade cowhide leather product, handcrafted in Rusizi using traditional techniques.",leather,cowhide,Rusizi,54054,ART-369,True
+RW-BAS-0151,traditional banana-fibre wall decoration,Beautiful traditional banana-fibre basket handwoven by skilled artisans in Nyamirambo using banana-fibre.,basketry,banana-fibre,Nyamirambo,4685,ART-864,True
+RW-JEW-0152,artisan brass necklace,"Elegant artisan brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,35944,ART-698,True
+RW-JEW-0153,artisan bone necklace,"Elegant artisan bone jewellery piece, handcrafted by Nyamirambo artisans from bone.",jewellery,bone,Nyamirambo,20013,ART-538,True
+RW-LEA-0154,handmade sheepskin leather shoes,"Premium handmade sheepskin leather product, handcrafted in Rusizi using traditional techniques.",leather,sheepskin,Rusizi,25643,ART-697,True
+RW-BAS-0155,premium bamboo storage basket,Beautiful premium bamboo basket handwoven by skilled artisans in Nyagatare using bamboo.,basketry,bamboo,Nyagatare,24076,ART-508,True
+RW-HOM-0156,traditional stone wall art,"Unique traditional stone home decor item, handmade in Nyagatare with stone.",home-decor,stone,Nyagatare,12380,ART-470,True
+RW-HOM-0157,handmade clay table mat,"Unique handmade clay home decor item, handmade in Nyamirambo with clay.",home-decor,clay,Nyamirambo,38747,ART-324,True
+RW-BAS-0158,handmade banana-fibre woven bowl,Beautiful handmade banana-fibre basket handwoven by skilled artisans in Huye using banana-fibre.,basketry,banana-fibre,Huye,6314,ART-241,True
+RW-LEA-0159,handmade genuine-leather leather wallet,"Premium handmade genuine-leather leather product, handcrafted in Gisenyi using traditional techniques.",leather,genuine-leather,Gisenyi,56085,ART-621,True
+RW-LEA-0160,traditional goatskin leather shoes,"Premium traditional goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,53118,ART-605,True
+RW-APP-0161,modern traditional kitenge robe,Handmade modern kitenge apparel made from Gasabo by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Gasabo,30217,ART-193,True
+RW-JEW-0162,artisan wood anklet,"Elegant artisan wood jewellery piece, handcrafted by Musanze artisans from wood.",jewellery,wood,Musanze,35159,ART-873,True
+RW-JEW-0163,modern wood earrings,"Elegant modern wood jewellery piece, handcrafted by Gasabo artisans from wood.",jewellery,wood,Gasabo,38465,ART-148,True
+RW-LEA-0164,artisan genuine-leather leather belt,"Premium artisan genuine-leather leather product, handcrafted in Gisenyi using traditional techniques.",leather,genuine-leather,Gisenyi,46367,ART-981,True
+RW-JEW-0165,premium brass ring set,"Elegant premium brass jewellery piece, handcrafted by Nyagatare artisans from brass.",jewellery,brass,Nyagatare,24388,ART-212,True
+RW-BAS-0166,traditional bamboo storage basket,Beautiful traditional bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,10492,ART-256,True
+RW-HOM-0167,modern metal candle holder,"Unique modern metal home decor item, handmade in Musanze with metal.",home-decor,metal,Musanze,7833,ART-742,True
+RW-HOM-0168,premium fabric vase,"Unique premium fabric home decor item, handmade in Rubavu with fabric.",home-decor,fabric,Rubavu,13745,ART-263,True
+RW-LEA-0169,artisan goatskin leather jacket,"Premium artisan goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,54517,ART-911,True
+RW-BAS-0170,handmade papyrus storage basket,Beautiful handmade papyrus basket handwoven by skilled artisans in Huye using papyrus.,basketry,papyrus,Huye,16166,ART-796,True
+RW-BAS-0171,artisan sisal gift basket,Beautiful artisan sisal basket handwoven by skilled artisans in Nyarugenge using sisal.,basketry,sisal,Nyarugenge,14568,ART-532,True
+RW-HOM-0172,artisan fabric throw pillow,"Unique artisan fabric home decor item, handmade in Nyagatare with fabric.",home-decor,fabric,Nyagatare,25145,ART-710,True
+RW-JEW-0173,artisan silver ring set,"Elegant artisan silver jewellery piece, handcrafted by Gisenyi artisans from silver.",jewellery,silver,Gisenyi,17812,ART-165,True
+RW-JEW-0174,artisan bone earrings,"Elegant artisan bone jewellery piece, handcrafted by Huye artisans from bone.",jewellery,bone,Huye,10134,ART-494,True
+RW-HOM-0175,traditional fabric table mat,"Unique traditional fabric home decor item, handmade in Huye with fabric.",home-decor,fabric,Huye,43537,ART-490,True
+RW-HOM-0176,artisan stone throw pillow,"Unique artisan stone home decor item, handmade in Kicukiro with stone.",home-decor,stone,Kicukiro,17952,ART-710,True
+RW-HOM-0177,premium fabric vase,"Unique premium fabric home decor item, handmade in Rusizi with fabric.",home-decor,fabric,Rusizi,7179,ART-579,True
+RW-APP-0178,modern traditional polyester robe,Handmade modern polyester apparel made from Musanze by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Musanze,19690,ART-641,True
+RW-HOM-0179,handmade clay wall art,"Unique handmade clay home decor item, handmade in Huye with clay.",home-decor,clay,Huye,16192,ART-357,True
+RW-JEW-0180,modern beads earrings,"Elegant modern beads jewellery piece, handcrafted by Rubavu artisans from beads.",jewellery,beads,Rubavu,29995,ART-666,True
+RW-LEA-0181,handmade goatskin leather bag,"Premium handmade goatskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,goatskin,Gisenyi,30494,ART-981,True
+RW-LEA-0182,artisan cowhide leather jacket,"Premium artisan cowhide leather product, handcrafted in Gisenyi using traditional techniques.",leather,cowhide,Gisenyi,22103,ART-111,True
+RW-JEW-0183,artisan wood ring set,"Elegant artisan wood jewellery piece, handcrafted by Rusizi artisans from wood.",jewellery,wood,Rusizi,5365,ART-796,True
+RW-JEW-0184,premium bone ring set,"Elegant premium bone jewellery piece, handcrafted by Nyamirambo artisans from bone.",jewellery,bone,Nyamirambo,7203,ART-838,True
+RW-APP-0185,modern kitenge apparel shirt,Handmade modern kitenge apparel made from Rubavu by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Rubavu,18312,ART-217,True
+RW-BAS-0186,traditional raffia gift basket,Beautiful traditional raffia basket handwoven by skilled artisans in Nyarugenge using raffia.,basketry,raffia,Nyarugenge,3651,ART-798,True
+RW-JEW-0187,traditional wood bracelet,"Elegant traditional wood jewellery piece, handcrafted by Nyagatare artisans from wood.",jewellery,wood,Nyagatare,16459,ART-649,True
+RW-HOM-0188,premium clay throw pillow,"Unique premium clay home decor item, handmade in Musanze with clay.",home-decor,clay,Musanze,39427,ART-868,True
+RW-JEW-0189,traditional silver bracelet,"Elegant traditional silver jewellery piece, handcrafted by Musanze artisans from silver.",jewellery,silver,Musanze,10154,ART-373,True
+RW-HOM-0190,premium wood table mat,"Unique premium wood home decor item, handmade in Nyagatare with wood.",home-decor,wood,Nyagatare,10222,ART-887,True
+RW-BAS-0191,artisan banana-fibre wall decoration,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Rusizi using banana-fibre.,basketry,banana-fibre,Rusizi,14738,ART-756,True
+RW-LEA-0192,traditional goatskin leather bag,"Premium traditional goatskin leather product, handcrafted in Rusizi using traditional techniques.",leather,goatskin,Rusizi,23893,ART-448,True
+RW-APP-0193,handmade silk trousers,Handmade handmade silk apparel made from Gisenyi by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Gisenyi,27040,ART-214,True
+RW-LEA-0194,handmade genuine-leather leather wallet,"Premium handmade genuine-leather leather product, handcrafted in Huye using traditional techniques.",leather,genuine-leather,Huye,47299,ART-400,True
+RW-APP-0195,traditional cotton dress,Handmade traditional cotton apparel made from Nyamirambo by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyamirambo,15526,ART-545,True
+RW-APP-0196,premium traditional linen robe,Handmade premium linen apparel made from Nyamirambo by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Nyamirambo,24036,ART-261,True
+RW-BAS-0197,traditional bamboo gift basket,Beautiful traditional bamboo basket handwoven by skilled artisans in Huye using bamboo.,basketry,bamboo,Huye,24171,ART-564,True
+RW-BAS-0198,premium papyrus woven bowl,Beautiful premium papyrus basket handwoven by skilled artisans in Gisenyi using papyrus.,basketry,papyrus,Gisenyi,22733,ART-103,True
+RW-BAS-0199,modern bamboo storage basket,Beautiful modern bamboo basket handwoven by skilled artisans in Nyamirambo using bamboo.,basketry,bamboo,Nyamirambo,9732,ART-839,True
+RW-JEW-0200,premium silver necklace,"Elegant premium silver jewellery piece, handcrafted by Nyarugenge artisans from silver.",jewellery,silver,Nyarugenge,34404,ART-996,True
+RW-HOM-0201,premium clay vase,"Unique premium clay home decor item, handmade in Nyarugenge with clay.",home-decor,clay,Nyarugenge,13740,ART-836,True
+RW-HOM-0202,artisan clay candle holder,"Unique artisan clay home decor item, handmade in Gasabo with clay.",home-decor,clay,Gasabo,28336,ART-369,True
+RW-BAS-0203,modern raffia storage basket,Beautiful modern raffia basket handwoven by skilled artisans in Rusizi using raffia.,basketry,raffia,Rusizi,21941,ART-612,True
+RW-HOM-0204,modern fabric table mat,"Unique modern fabric home decor item, handmade in Musanze with fabric.",home-decor,fabric,Musanze,37956,ART-880,True
+RW-LEA-0205,premium goatskin leather belt,"Premium premium goatskin leather product, handcrafted in Rusizi using traditional techniques.",leather,goatskin,Rusizi,26127,ART-282,True
+RW-APP-0206,traditional polyester jacket,Handmade traditional polyester apparel made from Huye by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Huye,33660,ART-619,True
+RW-HOM-0207,artisan wood throw pillow,"Unique artisan wood home decor item, handmade in Huye with wood.",home-decor,wood,Huye,42644,ART-208,True
+RW-APP-0208,handmade cotton trousers,Handmade handmade cotton apparel made from Nyarugenge by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyarugenge,12381,ART-991,True
+RW-HOM-0209,handmade clay candle holder,"Unique handmade clay home decor item, handmade in Huye with clay.",home-decor,clay,Huye,37025,ART-740,True
+RW-APP-0210,handmade cotton jacket,Handmade handmade cotton apparel made from Nyagatare by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyagatare,16535,ART-405,True
+RW-HOM-0211,traditional metal candle holder,"Unique traditional metal home decor item, handmade in Rubavu with metal.",home-decor,metal,Rubavu,44131,ART-961,True
+RW-LEA-0212,handmade goatskin leather wallet,"Premium handmade goatskin leather product, handcrafted in Nyarugenge using traditional techniques.",leather,goatskin,Nyarugenge,15107,ART-754,True
+RW-BAS-0213,premium sisal storage basket,Beautiful premium sisal basket handwoven by skilled artisans in Nyagatare using sisal.,basketry,sisal,Nyagatare,5444,ART-619,True
+RW-BAS-0214,artisan papyrus storage basket,Beautiful artisan papyrus basket handwoven by skilled artisans in Gasabo using papyrus.,basketry,papyrus,Gasabo,12489,ART-723,True
+RW-BAS-0215,traditional banana-fibre woven bowl,Beautiful traditional banana-fibre basket handwoven by skilled artisans in Nyagatare using banana-fibre.,basketry,banana-fibre,Nyagatare,8038,ART-303,True
+RW-LEA-0216,premium goatskin leather wallet,"Premium premium goatskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,goatskin,Gisenyi,59411,ART-256,True
+RW-JEW-0217,traditional brass necklace,"Elegant traditional brass jewellery piece, handcrafted by Nyamirambo artisans from brass.",jewellery,brass,Nyamirambo,26718,ART-482,True
+RW-BAS-0218,handmade raffia gift basket,Beautiful handmade raffia basket handwoven by skilled artisans in Nyagatare using raffia.,basketry,raffia,Nyagatare,6309,ART-880,True
+RW-LEA-0219,modern cowhide leather bag,"Premium modern cowhide leather product, handcrafted in Kicukiro using traditional techniques.",leather,cowhide,Kicukiro,20838,ART-265,True
+RW-APP-0220,artisan cotton jacket,Handmade artisan cotton apparel made from Nyagatare by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyagatare,8318,ART-652,True
+RW-BAS-0221,artisan sisal storage basket,Beautiful artisan sisal basket handwoven by skilled artisans in Nyarugenge using sisal.,basketry,sisal,Nyarugenge,8075,ART-897,True
+RW-HOM-0222,artisan wood wall art,"Unique artisan wood home decor item, handmade in Huye with wood.",home-decor,wood,Huye,39428,ART-643,True
+RW-BAS-0223,premium bamboo wall decoration,Beautiful premium bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,24894,ART-100,True
+RW-LEA-0224,artisan genuine-leather leather jacket,"Premium artisan genuine-leather leather product, handcrafted in Nyarugenge using traditional techniques.",leather,genuine-leather,Nyarugenge,44539,ART-713,True
+RW-HOM-0225,handmade wood throw pillow,"Unique handmade wood home decor item, handmade in Gisenyi with wood.",home-decor,wood,Gisenyi,34897,ART-431,True
+RW-LEA-0226,premium genuine-leather leather wallet,"Premium premium genuine-leather leather product, handcrafted in Musanze using traditional techniques.",leather,genuine-leather,Musanze,54047,ART-600,True
+RW-BAS-0227,modern raffia basket,Beautiful modern raffia basket handwoven by skilled artisans in Huye using raffia.,basketry,raffia,Huye,21112,ART-119,True
+RW-APP-0228,handmade kitenge jacket,Handmade handmade kitenge apparel made from Rusizi by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Rusizi,5571,ART-214,True
+RW-JEW-0229,modern bone anklet,"Elegant modern bone jewellery piece, handcrafted by Rusizi artisans from bone.",jewellery,bone,Rusizi,18567,ART-471,True
+RW-LEA-0230,handmade genuine-leather leather wallet,"Premium handmade genuine-leather leather product, handcrafted in Kicukiro using traditional techniques.",leather,genuine-leather,Kicukiro,53598,ART-999,True
+RW-JEW-0231,artisan wood necklace,"Elegant artisan wood jewellery piece, handcrafted by Kicukiro artisans from wood.",jewellery,wood,Kicukiro,7710,ART-951,True
+RW-BAS-0232,handmade bamboo wall decoration,Beautiful handmade bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,3088,ART-926,True
+RW-BAS-0233,traditional banana-fibre basket,Beautiful traditional banana-fibre basket handwoven by skilled artisans in Gisenyi using banana-fibre.,basketry,banana-fibre,Gisenyi,11539,ART-414,True
+RW-HOM-0234,artisan stone vase,"Unique artisan stone home decor item, handmade in Gasabo with stone.",home-decor,stone,Gasabo,27375,ART-345,True
+RW-APP-0235,handmade polyester trousers,Handmade handmade polyester apparel made from Nyarugenge by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Nyarugenge,18415,ART-159,True
+RW-LEA-0236,handmade sheepskin leather bag,"Premium handmade sheepskin leather product, handcrafted in Nyamirambo using traditional techniques.",leather,sheepskin,Nyamirambo,69355,ART-346,True
+RW-APP-0237,modern traditional cotton robe,Handmade modern cotton apparel made from Musanze by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Musanze,30421,ART-999,True
+RW-LEA-0238,premium sheepskin leather belt,"Premium premium sheepskin leather product, handcrafted in Rubavu using traditional techniques.",leather,sheepskin,Rubavu,50980,ART-680,True
+RW-JEW-0239,premium silver earrings,"Elegant premium silver jewellery piece, handcrafted by Rubavu artisans from silver.",jewellery,silver,Rubavu,39339,ART-180,True
+RW-JEW-0240,traditional bone ring set,"Elegant traditional bone jewellery piece, handcrafted by Rusizi artisans from bone.",jewellery,bone,Rusizi,23867,ART-187,True
+RW-HOM-0241,traditional wood wall art,"Unique traditional wood home decor item, handmade in Gasabo with wood.",home-decor,wood,Gasabo,20620,ART-849,True
+RW-BAS-0242,premium sisal gift basket,Beautiful premium sisal basket handwoven by skilled artisans in Gisenyi using sisal.,basketry,sisal,Gisenyi,22572,ART-597,True
+RW-APP-0243,premium traditional linen robe,Handmade premium linen apparel made from Rubavu by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Rubavu,15789,ART-935,True
+RW-APP-0244,modern traditional cotton robe,Handmade modern cotton apparel made from Rubavu by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Rubavu,30769,ART-170,True
+RW-LEA-0245,artisan goatskin leather shoes,"Premium artisan goatskin leather product, handcrafted in Nyarugenge using traditional techniques.",leather,goatskin,Nyarugenge,72199,ART-878,True
+RW-HOM-0246,artisan clay vase,"Unique artisan clay home decor item, handmade in Rubavu with clay.",home-decor,clay,Rubavu,26646,ART-645,True
+RW-JEW-0247,traditional silver earrings,"Elegant traditional silver jewellery piece, handcrafted by Rusizi artisans from silver.",jewellery,silver,Rusizi,47738,ART-884,True
+RW-APP-0248,artisan traditional silk robe,Handmade artisan silk apparel made from Rusizi by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Rusizi,30967,ART-228,True
+RW-BAS-0249,traditional sisal gift basket,Beautiful traditional sisal basket handwoven by skilled artisans in Gasabo using sisal.,basketry,sisal,Gasabo,12482,ART-231,True
+RW-APP-0250,artisan traditional silk robe,Handmade artisan silk apparel made from Nyarugenge by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyarugenge,16314,ART-775,True
+RW-HOM-0251,premium fabric candle holder,"Unique premium fabric home decor item, handmade in Nyagatare with fabric.",home-decor,fabric,Nyagatare,30813,ART-586,True
+RW-JEW-0252,artisan silver necklace,"Elegant artisan silver jewellery piece, handcrafted by Musanze artisans from silver.",jewellery,silver,Musanze,23411,ART-662,True
+RW-BAS-0253,premium banana-fibre basket,Beautiful premium banana-fibre basket handwoven by skilled artisans in Gisenyi using banana-fibre.,basketry,banana-fibre,Gisenyi,4489,ART-269,True
+RW-LEA-0254,handmade goatskin leather wallet,"Premium handmade goatskin leather product, handcrafted in Nyamirambo using traditional techniques.",leather,goatskin,Nyamirambo,23522,ART-371,True
+RW-LEA-0255,artisan cowhide leather jacket,"Premium artisan cowhide leather product, handcrafted in Rubavu using traditional techniques.",leather,cowhide,Rubavu,16539,ART-640,True
+RW-LEA-0256,modern cowhide leather belt,"Premium modern cowhide leather product, handcrafted in Kicukiro using traditional techniques.",leather,cowhide,Kicukiro,63977,ART-993,True
+RW-LEA-0257,traditional goatskin leather bag,"Premium traditional goatskin leather product, handcrafted in Nyarugenge using traditional techniques.",leather,goatskin,Nyarugenge,78416,ART-721,True
+RW-BAS-0258,handmade banana-fibre basket,Beautiful handmade banana-fibre basket handwoven by skilled artisans in Gasabo using banana-fibre.,basketry,banana-fibre,Gasabo,8707,ART-533,True
+RW-APP-0259,artisan cotton jacket,Handmade artisan cotton apparel made from Huye by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Huye,12342,ART-316,True
+RW-BAS-0260,premium sisal basket,Beautiful premium sisal basket handwoven by skilled artisans in Nyagatare using sisal.,basketry,sisal,Nyagatare,8553,ART-652,True
+RW-LEA-0261,handmade goatskin leather jacket,"Premium handmade goatskin leather product, handcrafted in Rusizi using traditional techniques.",leather,goatskin,Rusizi,65223,ART-873,True
+RW-HOM-0262,handmade stone wall art,"Unique handmade stone home decor item, handmade in Rubavu with stone.",home-decor,stone,Rubavu,43213,ART-847,True
+RW-BAS-0263,traditional bamboo storage basket,Beautiful traditional bamboo basket handwoven by skilled artisans in Kicukiro using bamboo.,basketry,bamboo,Kicukiro,7891,ART-806,True
+RW-APP-0264,traditional silk trousers,Handmade traditional silk apparel made from Nyagatare by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyagatare,23502,ART-305,True
+RW-BAS-0265,handmade sisal basket,Beautiful handmade sisal basket handwoven by skilled artisans in Kicukiro using sisal.,basketry,sisal,Kicukiro,12995,ART-830,True
+RW-HOM-0266,premium metal table mat,"Unique premium metal home decor item, handmade in Nyamirambo with metal.",home-decor,metal,Nyamirambo,34934,ART-419,True
+RW-HOM-0267,handmade stone table mat,"Unique handmade stone home decor item, handmade in Nyamirambo with stone.",home-decor,stone,Nyamirambo,11217,ART-508,True
+RW-JEW-0268,handmade brass earrings,"Elegant handmade brass jewellery piece, handcrafted by Gasabo artisans from brass.",jewellery,brass,Gasabo,47369,ART-787,True
+RW-LEA-0269,handmade sheepskin leather wallet,"Premium handmade sheepskin leather product, handcrafted in Nyagatare using traditional techniques.",leather,sheepskin,Nyagatare,40018,ART-765,True
+RW-HOM-0270,traditional wood vase,"Unique traditional wood home decor item, handmade in Rubavu with wood.",home-decor,wood,Rubavu,22715,ART-482,True
+RW-APP-0271,traditional traditional silk robe,Handmade traditional silk apparel made from Nyarugenge by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyarugenge,9022,ART-548,True
+RW-HOM-0272,premium clay table mat,"Unique premium clay home decor item, handmade in Rusizi with clay.",home-decor,clay,Rusizi,27172,ART-629,True
+RW-LEA-0273,handmade goatskin leather jacket,"Premium handmade goatskin leather product, handcrafted in Nyarugenge using traditional techniques.",leather,goatskin,Nyarugenge,17375,ART-562,True
+RW-HOM-0274,traditional fabric candle holder,"Unique traditional fabric home decor item, handmade in Gasabo with fabric.",home-decor,fabric,Gasabo,26671,ART-223,True
+RW-BAS-0275,premium papyrus storage basket,Beautiful premium papyrus basket handwoven by skilled artisans in Musanze using papyrus.,basketry,papyrus,Musanze,21160,ART-353,True
+RW-APP-0276,traditional cotton apparel shirt,Handmade traditional cotton apparel made from Nyamirambo by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyamirambo,33567,ART-330,True
+RW-HOM-0277,modern wood wall art,"Unique modern wood home decor item, handmade in Gisenyi with wood.",home-decor,wood,Gisenyi,21158,ART-165,True
+RW-LEA-0278,handmade goatskin leather wallet,"Premium handmade goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,16953,ART-446,True
+RW-APP-0279,handmade cotton jacket,Handmade handmade cotton apparel made from Gisenyi by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Gisenyi,32462,ART-121,True
+RW-BAS-0280,handmade banana-fibre gift basket,Beautiful handmade banana-fibre basket handwoven by skilled artisans in Gisenyi using banana-fibre.,basketry,banana-fibre,Gisenyi,14701,ART-702,True
+RW-HOM-0281,premium wood table mat,"Unique premium wood home decor item, handmade in Gisenyi with wood.",home-decor,wood,Gisenyi,38042,ART-667,True
+RW-BAS-0282,premium sisal gift basket,Beautiful premium sisal basket handwoven by skilled artisans in Nyagatare using sisal.,basketry,sisal,Nyagatare,23254,ART-335,True
+RW-BAS-0283,artisan bamboo gift basket,Beautiful artisan bamboo basket handwoven by skilled artisans in Gasabo using bamboo.,basketry,bamboo,Gasabo,4256,ART-702,True
+RW-JEW-0284,premium wood ring set,"Elegant premium wood jewellery piece, handcrafted by Gasabo artisans from wood.",jewellery,wood,Gasabo,40713,ART-325,True
+RW-LEA-0285,artisan sheepskin leather shoes,"Premium artisan sheepskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,sheepskin,Gisenyi,33668,ART-107,True
+RW-APP-0286,handmade traditional silk robe,Handmade handmade silk apparel made from Musanze by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Musanze,13426,ART-172,True
+RW-LEA-0287,artisan genuine-leather leather bag,"Premium artisan genuine-leather leather product, handcrafted in Huye using traditional techniques.",leather,genuine-leather,Huye,43213,ART-824,True
+RW-JEW-0288,premium brass anklet,"Elegant premium brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,46483,ART-746,True
+RW-BAS-0289,artisan raffia gift basket,Beautiful artisan raffia basket handwoven by skilled artisans in Rusizi using raffia.,basketry,raffia,Rusizi,9663,ART-160,True
+RW-BAS-0290,premium banana-fibre storage basket,Beautiful premium banana-fibre basket handwoven by skilled artisans in Gasabo using banana-fibre.,basketry,banana-fibre,Gasabo,23901,ART-334,True
+RW-BAS-0291,traditional sisal wall decoration,Beautiful traditional sisal basket handwoven by skilled artisans in Kicukiro using sisal.,basketry,sisal,Kicukiro,24696,ART-169,True
+RW-APP-0292,artisan linen jacket,Handmade artisan linen apparel made from Gisenyi by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Gisenyi,31774,ART-132,True
+RW-LEA-0293,handmade goatskin leather shoes,"Premium handmade goatskin leather product, handcrafted in Gisenyi using traditional techniques.",leather,goatskin,Gisenyi,63812,ART-980,True
+RW-LEA-0294,artisan genuine-leather leather shoes,"Premium artisan genuine-leather leather product, handcrafted in Nyamirambo using traditional techniques.",leather,genuine-leather,Nyamirambo,38811,ART-438,True
+RW-LEA-0295,traditional genuine-leather leather shoes,"Premium traditional genuine-leather leather product, handcrafted in Huye using traditional techniques.",leather,genuine-leather,Huye,24718,ART-172,True
+RW-BAS-0296,artisan bamboo basket,Beautiful artisan bamboo basket handwoven by skilled artisans in Rusizi using bamboo.,basketry,bamboo,Rusizi,12224,ART-626,True
+RW-BAS-0297,premium raffia storage basket,Beautiful premium raffia basket handwoven by skilled artisans in Nyamirambo using raffia.,basketry,raffia,Nyamirambo,13216,ART-343,True
+RW-APP-0298,artisan cotton apparel shirt,Handmade artisan cotton apparel made from Nyagatare by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Nyagatare,25024,ART-385,True
+RW-JEW-0299,modern brass bracelet,"Elegant modern brass jewellery piece, handcrafted by Rubavu artisans from brass.",jewellery,brass,Rubavu,44930,ART-785,True
+RW-APP-0300,premium polyester jacket,Handmade premium polyester apparel made from Kicukiro by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Kicukiro,30818,ART-597,True
+RW-HOM-0301,artisan wood candle holder,"Unique artisan wood home decor item, handmade in Rubavu with wood.",home-decor,wood,Rubavu,40104,ART-319,True
+RW-APP-0302,modern traditional kitenge robe,Handmade modern kitenge apparel made from Nyarugenge by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Nyarugenge,25242,ART-652,True
+RW-JEW-0303,artisan bone anklet,"Elegant artisan bone jewellery piece, handcrafted by Nyarugenge artisans from bone.",jewellery,bone,Nyarugenge,29568,ART-235,True
+RW-HOM-0304,artisan fabric candle holder,"Unique artisan fabric home decor item, handmade in Musanze with fabric.",home-decor,fabric,Musanze,16694,ART-840,True
+RW-APP-0305,traditional polyester dress,Handmade traditional polyester apparel made from Nyamirambo by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Nyamirambo,20584,ART-684,True
+RW-JEW-0306,modern beads anklet,"Elegant modern beads jewellery piece, handcrafted by Musanze artisans from beads.",jewellery,beads,Musanze,23002,ART-690,True
+RW-HOM-0307,modern clay throw pillow,"Unique modern clay home decor item, handmade in Rubavu with clay.",home-decor,clay,Rubavu,13705,ART-584,True
+RW-HOM-0308,traditional clay table mat,"Unique traditional clay home decor item, handmade in Nyamirambo with clay.",home-decor,clay,Nyamirambo,27692,ART-348,True
+RW-BAS-0309,traditional bamboo woven bowl,Beautiful traditional bamboo basket handwoven by skilled artisans in Rubavu using bamboo.,basketry,bamboo,Rubavu,20801,ART-903,True
+RW-HOM-0310,modern stone throw pillow,"Unique modern stone home decor item, handmade in Gisenyi with stone.",home-decor,stone,Gisenyi,39046,ART-584,True
+RW-APP-0311,handmade silk jacket,Handmade handmade silk apparel made from Rusizi by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Rusizi,11995,ART-926,True
+RW-BAS-0312,artisan banana-fibre gift basket,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Rubavu using banana-fibre.,basketry,banana-fibre,Rubavu,8284,ART-516,True
+RW-JEW-0313,premium brass earrings,"Elegant premium brass jewellery piece, handcrafted by Nyarugenge artisans from brass.",jewellery,brass,Nyarugenge,25779,ART-294,True
+RW-BAS-0314,modern papyrus woven bowl,Beautiful modern papyrus basket handwoven by skilled artisans in Nyarugenge using papyrus.,basketry,papyrus,Nyarugenge,20953,ART-196,True
+RW-BAS-0315,traditional papyrus woven bowl,Beautiful traditional papyrus basket handwoven by skilled artisans in Kicukiro using papyrus.,basketry,papyrus,Kicukiro,3861,ART-199,True
+RW-JEW-0316,artisan bone anklet,"Elegant artisan bone jewellery piece, handcrafted by Kicukiro artisans from bone.",jewellery,bone,Kicukiro,11224,ART-774,True
+RW-JEW-0317,premium beads ring set,"Elegant premium beads jewellery piece, handcrafted by Kicukiro artisans from beads.",jewellery,beads,Kicukiro,25277,ART-541,True
+RW-APP-0318,artisan cotton trousers,Handmade artisan cotton apparel made from Gisenyi by artisans in cotton. Perfect for casual and formal wear.,apparel,cotton,Gisenyi,17684,ART-462,True
+RW-HOM-0319,modern clay vase,"Unique modern clay home decor item, handmade in Gisenyi with clay.",home-decor,clay,Gisenyi,31041,ART-533,True
+RW-APP-0320,modern polyester trousers,Handmade modern polyester apparel made from Musanze by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Musanze,13118,ART-520,True
+RW-LEA-0321,traditional goatskin leather jacket,"Premium traditional goatskin leather product, handcrafted in Rubavu using traditional techniques.",leather,goatskin,Rubavu,61206,ART-578,True
+RW-APP-0322,traditional linen dress,Handmade traditional linen apparel made from Kicukiro by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Kicukiro,21565,ART-984,True
+RW-LEA-0323,handmade genuine-leather leather jacket,"Premium handmade genuine-leather leather product, handcrafted in Rubavu using traditional techniques.",leather,genuine-leather,Rubavu,15081,ART-846,True
+RW-HOM-0324,artisan metal table mat,"Unique artisan metal home decor item, handmade in Gasabo with metal.",home-decor,metal,Gasabo,10617,ART-155,True
+RW-APP-0325,handmade kitenge trousers,Handmade handmade kitenge apparel made from Gisenyi by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Gisenyi,13909,ART-789,True
+RW-BAS-0326,premium sisal gift basket,Beautiful premium sisal basket handwoven by skilled artisans in Nyarugenge using sisal.,basketry,sisal,Nyarugenge,17789,ART-769,True
+RW-LEA-0327,modern sheepskin leather jacket,"Premium modern sheepskin leather product, handcrafted in Rusizi using traditional techniques.",leather,sheepskin,Rusizi,73896,ART-761,True
+RW-BAS-0328,modern papyrus gift basket,Beautiful modern papyrus basket handwoven by skilled artisans in Nyamirambo using papyrus.,basketry,papyrus,Nyamirambo,19474,ART-200,True
+RW-APP-0329,traditional kitenge apparel shirt,Handmade traditional kitenge apparel made from Huye by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Huye,13022,ART-162,True
+RW-HOM-0330,traditional wood candle holder,"Unique traditional wood home decor item, handmade in Gisenyi with wood.",home-decor,wood,Gisenyi,12833,ART-512,True
+RW-LEA-0331,handmade sheepskin leather bag,"Premium handmade sheepskin leather product, handcrafted in Gasabo using traditional techniques.",leather,sheepskin,Gasabo,29735,ART-845,True
+RW-BAS-0332,artisan raffia woven bowl,Beautiful artisan raffia basket handwoven by skilled artisans in Nyagatare using raffia.,basketry,raffia,Nyagatare,3766,ART-447,True
+RW-JEW-0333,handmade brass necklace,"Elegant handmade brass jewellery piece, handcrafted by Nyagatare artisans from brass.",jewellery,brass,Nyagatare,6185,ART-919,True
+RW-HOM-0334,modern stone wall art,"Unique modern stone home decor item, handmade in Nyarugenge with stone.",home-decor,stone,Nyarugenge,27479,ART-982,True
+RW-APP-0335,traditional linen jacket,Handmade traditional linen apparel made from Gasabo by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Gasabo,21367,ART-211,True
+RW-LEA-0336,artisan genuine-leather leather belt,"Premium artisan genuine-leather leather product, handcrafted in Nyamirambo using traditional techniques.",leather,genuine-leather,Nyamirambo,47771,ART-354,True
+RW-JEW-0337,artisan brass bracelet,"Elegant artisan brass jewellery piece, handcrafted by Huye artisans from brass.",jewellery,brass,Huye,23521,ART-296,True
+RW-LEA-0338,handmade genuine-leather leather shoes,"Premium handmade genuine-leather leather product, handcrafted in Rubavu using traditional techniques.",leather,genuine-leather,Rubavu,22729,ART-294,True
+RW-LEA-0339,handmade cowhide leather jacket,"Premium handmade cowhide leather product, handcrafted in Kicukiro using traditional techniques.",leather,cowhide,Kicukiro,17855,ART-649,True
+RW-LEA-0340,artisan genuine-leather leather jacket,"Premium artisan genuine-leather leather product, handcrafted in Rubavu using traditional techniques.",leather,genuine-leather,Rubavu,23918,ART-559,True
+RW-APP-0341,modern traditional silk robe,Handmade modern silk apparel made from Huye by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Huye,10509,ART-243,True
+RW-HOM-0342,premium stone table mat,"Unique premium stone home decor item, handmade in Gisenyi with stone.",home-decor,stone,Gisenyi,14307,ART-532,True
+RW-BAS-0343,handmade bamboo gift basket,Beautiful handmade bamboo basket handwoven by skilled artisans in Rubavu using bamboo.,basketry,bamboo,Rubavu,8542,ART-287,True
+RW-BAS-0344,artisan banana-fibre woven bowl,Beautiful artisan banana-fibre basket handwoven by skilled artisans in Rusizi using banana-fibre.,basketry,banana-fibre,Rusizi,21228,ART-385,True
+RW-BAS-0345,premium banana-fibre gift basket,Beautiful premium banana-fibre basket handwoven by skilled artisans in Gasabo using banana-fibre.,basketry,banana-fibre,Gasabo,23481,ART-573,True
+RW-BAS-0346,artisan papyrus woven bowl,Beautiful artisan papyrus basket handwoven by skilled artisans in Rubavu using papyrus.,basketry,papyrus,Rubavu,12210,ART-355,True
+RW-APP-0347,artisan kitenge dress,Handmade artisan kitenge apparel made from Nyagatare by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Nyagatare,9732,ART-995,True
+RW-LEA-0348,traditional sheepskin leather belt,"Premium traditional sheepskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,sheepskin,Kicukiro,35458,ART-177,True
+RW-JEW-0349,handmade bone necklace,"Elegant handmade bone jewellery piece, handcrafted by Rubavu artisans from bone.",jewellery,bone,Rubavu,21304,ART-553,True
+RW-LEA-0350,handmade genuine-leather leather shoes,"Premium handmade genuine-leather leather product, handcrafted in Musanze using traditional techniques.",leather,genuine-leather,Musanze,57008,ART-927,True
+RW-HOM-0351,modern wood wall art,"Unique modern wood home decor item, handmade in Nyagatare with wood.",home-decor,wood,Nyagatare,38541,ART-982,True
+RW-HOM-0352,traditional wood wall art,"Unique traditional wood home decor item, handmade in Huye with wood.",home-decor,wood,Huye,15176,ART-976,True
+RW-BAS-0353,modern papyrus woven bowl,Beautiful modern papyrus basket handwoven by skilled artisans in Kicukiro using papyrus.,basketry,papyrus,Kicukiro,3593,ART-663,True
+RW-APP-0354,handmade kitenge trousers,Handmade handmade kitenge apparel made from Huye by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Huye,17682,ART-200,True
+RW-APP-0355,premium polyester dress,Handmade premium polyester apparel made from Kicukiro by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Kicukiro,10408,ART-151,True
+RW-LEA-0356,premium cowhide leather wallet,"Premium premium cowhide leather product, handcrafted in Nyarugenge using traditional techniques.",leather,cowhide,Nyarugenge,38229,ART-767,True
+RW-HOM-0357,handmade metal throw pillow,"Unique handmade metal home decor item, handmade in Rubavu with metal.",home-decor,metal,Rubavu,37442,ART-653,True
+RW-HOM-0358,handmade wood vase,"Unique handmade wood home decor item, handmade in Rubavu with wood.",home-decor,wood,Rubavu,11081,ART-956,True
+RW-BAS-0359,modern banana-fibre wall decoration,Beautiful modern banana-fibre basket handwoven by skilled artisans in Rubavu using banana-fibre.,basketry,banana-fibre,Rubavu,7381,ART-115,True
+RW-JEW-0360,modern bone necklace,"Elegant modern bone jewellery piece, handcrafted by Kicukiro artisans from bone.",jewellery,bone,Kicukiro,28672,ART-195,True
+RW-BAS-0361,traditional papyrus woven bowl,Beautiful traditional papyrus basket handwoven by skilled artisans in Gasabo using papyrus.,basketry,papyrus,Gasabo,4371,ART-871,True
+RW-HOM-0362,handmade metal throw pillow,"Unique handmade metal home decor item, handmade in Gasabo with metal.",home-decor,metal,Gasabo,37635,ART-969,True
+RW-HOM-0363,premium clay wall art,"Unique premium clay home decor item, handmade in Gisenyi with clay.",home-decor,clay,Gisenyi,27171,ART-342,True
+RW-HOM-0364,traditional clay table mat,"Unique traditional clay home decor item, handmade in Gisenyi with clay.",home-decor,clay,Gisenyi,22105,ART-270,True
+RW-BAS-0365,modern raffia basket,Beautiful modern raffia basket handwoven by skilled artisans in Kicukiro using raffia.,basketry,raffia,Kicukiro,7770,ART-516,True
+RW-APP-0366,premium silk trousers,Handmade premium silk apparel made from Rusizi by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Rusizi,22679,ART-597,True
+RW-JEW-0367,premium silver anklet,"Elegant premium silver jewellery piece, handcrafted by Huye artisans from silver.",jewellery,silver,Huye,41030,ART-592,True
+RW-HOM-0368,premium stone table mat,"Unique premium stone home decor item, handmade in Nyagatare with stone.",home-decor,stone,Nyagatare,21876,ART-318,True
+RW-LEA-0369,premium genuine-leather leather belt,"Premium premium genuine-leather leather product, handcrafted in Huye using traditional techniques.",leather,genuine-leather,Huye,39940,ART-985,True
+RW-JEW-0370,premium silver ring set,"Elegant premium silver jewellery piece, handcrafted by Nyamirambo artisans from silver.",jewellery,silver,Nyamirambo,19432,ART-510,True
+RW-APP-0371,traditional linen apparel shirt,Handmade traditional linen apparel made from Nyamirambo by artisans in linen. Perfect for casual and formal wear.,apparel,linen,Nyamirambo,14170,ART-160,True
+RW-JEW-0372,traditional brass anklet,"Elegant traditional brass jewellery piece, handcrafted by Gisenyi artisans from brass.",jewellery,brass,Gisenyi,14654,ART-268,True
+RW-JEW-0373,modern silver ring set,"Elegant modern silver jewellery piece, handcrafted by Rusizi artisans from silver.",jewellery,silver,Rusizi,28678,ART-488,True
+RW-HOM-0374,handmade metal throw pillow,"Unique handmade metal home decor item, handmade in Kicukiro with metal.",home-decor,metal,Kicukiro,32420,ART-102,True
+RW-JEW-0375,modern bone ring set,"Elegant modern bone jewellery piece, handcrafted by Gisenyi artisans from bone.",jewellery,bone,Gisenyi,9676,ART-499,True
+RW-BAS-0376,artisan sisal wall decoration,Beautiful artisan sisal basket handwoven by skilled artisans in Gisenyi using sisal.,basketry,sisal,Gisenyi,3847,ART-371,True
+RW-HOM-0377,handmade wood table mat,"Unique handmade wood home decor item, handmade in Musanze with wood.",home-decor,wood,Musanze,19751,ART-902,True
+RW-HOM-0378,handmade metal wall art,"Unique handmade metal home decor item, handmade in Nyarugenge with metal.",home-decor,metal,Nyarugenge,24698,ART-903,True
+RW-BAS-0379,modern bamboo wall decoration,Beautiful modern bamboo basket handwoven by skilled artisans in Rusizi using bamboo.,basketry,bamboo,Rusizi,22372,ART-565,True
+RW-LEA-0380,handmade sheepskin leather shoes,"Premium handmade sheepskin leather product, handcrafted in Nyagatare using traditional techniques.",leather,sheepskin,Nyagatare,32572,ART-392,True
+RW-BAS-0381,premium sisal storage basket,Beautiful premium sisal basket handwoven by skilled artisans in Rusizi using sisal.,basketry,sisal,Rusizi,7726,ART-533,True
+RW-HOM-0382,handmade stone throw pillow,"Unique handmade stone home decor item, handmade in Gasabo with stone.",home-decor,stone,Gasabo,39514,ART-813,True
+RW-HOM-0383,handmade stone candle holder,"Unique handmade stone home decor item, handmade in Musanze with stone.",home-decor,stone,Musanze,29025,ART-848,True
+RW-APP-0384,traditional silk dress,Handmade traditional silk apparel made from Nyamirambo by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyamirambo,19452,ART-902,True
+RW-JEW-0385,modern wood earrings,"Elegant modern wood jewellery piece, handcrafted by Gisenyi artisans from wood.",jewellery,wood,Gisenyi,45953,ART-669,True
+RW-LEA-0386,artisan goatskin leather jacket,"Premium artisan goatskin leather product, handcrafted in Kicukiro using traditional techniques.",leather,goatskin,Kicukiro,22695,ART-777,True
+RW-LEA-0387,artisan cowhide leather wallet,"Premium artisan cowhide leather product, handcrafted in Nyagatare using traditional techniques.",leather,cowhide,Nyagatare,60896,ART-835,True
+RW-HOM-0388,traditional wood wall art,"Unique traditional wood home decor item, handmade in Gasabo with wood.",home-decor,wood,Gasabo,26777,ART-598,True
+RW-BAS-0389,handmade banana-fibre gift basket,Beautiful handmade banana-fibre basket handwoven by skilled artisans in Rubavu using banana-fibre.,basketry,banana-fibre,Rubavu,16786,ART-258,True
+RW-LEA-0390,traditional sheepskin leather belt,"Premium traditional sheepskin leather product, handcrafted in Rusizi using traditional techniques.",leather,sheepskin,Rusizi,17606,ART-294,True
+RW-HOM-0391,traditional stone vase,"Unique traditional stone home decor item, handmade in Musanze with stone.",home-decor,stone,Musanze,23998,ART-403,True
+RW-APP-0392,modern kitenge trousers,Handmade modern kitenge apparel made from Huye by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Huye,7904,ART-322,True
+RW-APP-0393,premium traditional kitenge robe,Handmade premium kitenge apparel made from Huye by artisans in kitenge. Perfect for casual and formal wear.,apparel,kitenge,Huye,17447,ART-159,True
+RW-APP-0394,artisan traditional polyester robe,Handmade artisan polyester apparel made from Musanze by artisans in polyester. Perfect for casual and formal wear.,apparel,polyester,Musanze,31142,ART-693,True
+RW-LEA-0395,premium cowhide leather bag,"Premium premium cowhide leather product, handcrafted in Huye using traditional techniques.",leather,cowhide,Huye,38688,ART-853,True
+RW-BAS-0396,handmade bamboo gift basket,Beautiful handmade bamboo basket handwoven by skilled artisans in Nyamirambo using bamboo.,basketry,bamboo,Nyamirambo,24091,ART-655,True
+RW-LEA-0397,premium sheepskin leather jacket,"Premium premium sheepskin leather product, handcrafted in Rusizi using traditional techniques.",leather,sheepskin,Rusizi,48935,ART-162,True
+RW-APP-0398,handmade traditional silk robe,Handmade handmade silk apparel made from Nyamirambo by artisans in silk. Perfect for casual and formal wear.,apparel,silk,Nyamirambo,30124,ART-865,True
+RW-LEA-0399,artisan cowhide leather bag,"Premium artisan cowhide leather product, handcrafted in Gasabo using traditional techniques.",leather,cowhide,Gasabo,75901,ART-421,True
+RW-BAS-0400,premium bamboo gift basket,Beautiful premium bamboo basket handwoven by skilled artisans in Gasabo using bamboo.,basketry,bamboo,Gasabo,15483,ART-158,True
+GN-JEW-0401,Amazon Basics cubic-zirconia ring set,Imported Amazon Basics cubic-zirconia jewellery from Ethiopia. Made with cubic-zirconia.,jewellery,cubic-zirconia,Ethiopia,4237,BRAND-151,False
+GN-LEA-0402,Levi's synthetic-leather leather bag,Imported Levi's synthetic-leather leather product from Dubai. Made with synthetic-leather.,leather,synthetic-leather,Dubai,10720,BRAND-698,False
+GN-APP-0403,Shein denim trousers,Imported Shein denim from China. Made with denim for everyday wear.,apparel,denim,China,3657,BRAND-588,False
+GN-HOM-0404,Mango metal candle holder,Imported Mango metal home decor from India. Made with metal.,home-decor,metal,India,10579,BRAND-614,False
+GN-JEW-0405,Forever 21 cubic-zirconia earrings,Imported Forever 21 cubic-zirconia jewellery from India. Made with cubic-zirconia.,jewellery,cubic-zirconia,India,5902,BRAND-973,False
+GN-BAS-0406,H&M bamboo woven bowl,Imported H&M bamboo from Vietnam. Woven with bamboo.,basketry,bamboo,Vietnam,7802,BRAND-643,False
+GN-JEW-0407,Adidas silver-plated bracelet,Imported Adidas silver-plated jewellery from Ethiopia. Made with silver-plated.,jewellery,silver-plated,Ethiopia,13213,BRAND-261,False
+GN-LEA-0408,Zara cowhide leather shoes,Imported Zara cowhide leather product from India. Made with cowhide.,leather,cowhide,India,6795,BRAND-158,False
+GN-BAS-0409,Adidas seagrass gift basket,Imported Adidas seagrass from Dubai. Woven with seagrass.,basketry,seagrass,Dubai,2355,BRAND-620,False
+GN-JEW-0410,Nike plastic ring set,Imported Nike plastic jewellery from China. Made with plastic.,jewellery,plastic,China,4047,BRAND-182,False
+GN-LEA-0411,H&M faux-leather leather belt,Imported H&M faux-leather leather product from Vietnam. Made with faux-leather.,leather,faux-leather,Vietnam,12670,BRAND-971,False
+GN-HOM-0412,Amazon Basics metal wall art,Imported Amazon Basics metal home decor from Bangladesh. Made with metal.,home-decor,metal,Bangladesh,5127,BRAND-290,False
+GN-LEA-0413,Amazon Basics faux-leather leather bag,Imported Amazon Basics faux-leather leather product from India. Made with faux-leather.,leather,faux-leather,India,7968,BRAND-170,False
+GN-BAS-0414,H&M bamboo storage basket,Imported H&M bamboo from Uganda. Woven with bamboo.,basketry,bamboo,Uganda,4760,BRAND-709,False
+GN-JEW-0415,Shein silver-plated anklet,Imported Shein silver-plated jewellery from Kenya. Made with silver-plated.,jewellery,silver-plated,Kenya,13219,BRAND-169,False
+GN-HOM-0416,Zara metal vase,Imported Zara metal home decor from Nigeria. Made with metal.,home-decor,metal,Nigeria,6131,BRAND-791,False
+GN-BAS-0417,Adidas rattan gift basket,Imported Adidas rattan from Kenya. Woven with rattan.,basketry,rattan,Kenya,5346,BRAND-982,False
+GN-LEA-0418,Zara faux-leather leather belt,Imported Zara faux-leather leather product from Uganda. Made with faux-leather.,leather,faux-leather,Uganda,15809,BRAND-340,False
+GN-JEW-0419,Mango plastic anklet,Imported Mango plastic jewellery from Uganda. Made with plastic.,jewellery,plastic,Uganda,4264,BRAND-513,False
+GN-BAS-0420,Forever 21 plastic gift basket,Imported Forever 21 plastic from Bangladesh. Woven with plastic.,basketry,plastic,Bangladesh,6053,BRAND-222,False
+GN-JEW-0421,Zara glass necklace,Imported Zara glass jewellery from Vietnam. Made with glass.,jewellery,glass,Vietnam,12688,BRAND-683,False
+GN-BAS-0422,Amazon Basics seagrass gift basket,Imported Amazon Basics seagrass from Tanzania. Woven with seagrass.,basketry,seagrass,Tanzania,4557,BRAND-352,False
+GN-LEA-0423,Adidas synthetic-leather leather belt,Imported Adidas synthetic-leather leather product from Vietnam. Made with synthetic-leather.,leather,synthetic-leather,Vietnam,15251,BRAND-692,False
+GN-BAS-0424,Forever 21 plastic basket,Imported Forever 21 plastic from Vietnam. Woven with plastic.,basketry,plastic,Vietnam,5150,BRAND-708,False
+GN-JEW-0425,Amazon Basics glass ring set,Imported Amazon Basics glass jewellery from Nigeria. Made with glass.,jewellery,glass,Nigeria,9772,BRAND-140,False
+GN-BAS-0426,H&M bamboo storage basket,Imported H&M bamboo from Ethiopia. Woven with bamboo.,basketry,bamboo,Ethiopia,4328,BRAND-734,False
+GN-HOM-0427,Mango ceramic table mat,Imported Mango ceramic home decor from Bangladesh. Made with ceramic.,home-decor,ceramic,Bangladesh,9728,BRAND-183,False
+GN-BAS-0428,Zara seagrass gift basket,Imported Zara seagrass from Ethiopia. Woven with seagrass.,basketry,seagrass,Ethiopia,6993,BRAND-529,False
+GN-LEA-0429,Mango cowhide leather shoes,Imported Mango cowhide leather product from Uganda. Made with cowhide.,leather,cowhide,Uganda,20560,BRAND-773,False
+GN-HOM-0430,Levi's MDF wall art,Imported Levi's MDF home decor from Dubai. Made with MDF.,home-decor,MDF,Dubai,6825,BRAND-697,False
+GN-LEA-0431,Forever 21 synthetic-leather leather belt,Imported Forever 21 synthetic-leather leather product from Tanzania. Made with synthetic-leather.,leather,synthetic-leather,Tanzania,14797,BRAND-678,False
+GN-LEA-0432,Nike faux-leather leather wallet,Imported Nike faux-leather leather product from Tanzania. Made with faux-leather.,leather,faux-leather,Tanzania,7623,BRAND-635,False
+GN-LEA-0433,Forever 21 synthetic-leather leather jacket,Imported Forever 21 synthetic-leather leather product from Nigeria. Made with synthetic-leather.,leather,synthetic-leather,Nigeria,9492,BRAND-423,False
+GN-LEA-0434,Amazon Basics synthetic-leather leather jacket,Imported Amazon Basics synthetic-leather leather product from Tanzania. Made with synthetic-leather.,leather,synthetic-leather,Tanzania,24120,BRAND-367,False
+GN-LEA-0435,H&M cowhide leather belt,Imported H&M cowhide leather product from India. Made with cowhide.,leather,cowhide,India,11561,BRAND-309,False
+GN-HOM-0436,Zara ceramic table mat,Imported Zara ceramic home decor from Dubai. Made with ceramic.,home-decor,ceramic,Dubai,9373,BRAND-785,False
+GN-JEW-0437,Adidas glass necklace,Imported Adidas glass jewellery from Uganda. Made with glass.,jewellery,glass,Uganda,12428,BRAND-833,False
+GN-LEA-0438,Nike synthetic-leather leather shoes,Imported Nike synthetic-leather leather product from Kenya. Made with synthetic-leather.,leather,synthetic-leather,Kenya,7545,BRAND-421,False
+GN-HOM-0439,Amazon Basics plastic candle holder,Imported Amazon Basics plastic home decor from Dubai. Made with plastic.,home-decor,plastic,Dubai,6805,BRAND-344,False
+GN-JEW-0440,Zara glass bracelet,Imported Zara glass jewellery from Tanzania. Made with glass.,jewellery,glass,Tanzania,12595,BRAND-371,False
+GN-BAS-0441,H&M rattan woven bowl,Imported H&M rattan from Bangladesh. Woven with rattan.,basketry,rattan,Bangladesh,3377,BRAND-505,False
+GN-APP-0442,Nike nylon trousers,Imported Nike nylon from Kenya. Made with nylon for everyday wear.,apparel,nylon,Kenya,7096,BRAND-234,False
+GN-HOM-0443,Nike plastic candle holder,Imported Nike plastic home decor from Dubai. Made with plastic.,home-decor,plastic,Dubai,4651,BRAND-787,False
+GN-APP-0444,Forever 21 nylon jacket,Imported Forever 21 nylon from China. Made with nylon for everyday wear.,apparel,nylon,China,5938,BRAND-760,False
+GN-HOM-0445,Forever 21 glass table mat,Imported Forever 21 glass home decor from Kenya. Made with glass.,home-decor,glass,Kenya,3531,BRAND-407,False
+GN-BAS-0446,Amazon Basics seagrass storage basket,Imported Amazon Basics seagrass from Nigeria. Woven with seagrass.,basketry,seagrass,Nigeria,7070,BRAND-568,False
+GN-BAS-0447,Shein rattan gift basket,Imported Shein rattan from Nigeria. Woven with rattan.,basketry,rattan,Nigeria,6826,BRAND-423,False
+GN-JEW-0448,Forever 21 silver-plated anklet,Imported Forever 21 silver-plated jewellery from Uganda. Made with silver-plated.,jewellery,silver-plated,Uganda,3055,BRAND-869,False
+GN-BAS-0449,Adidas rattan woven bowl,Imported Adidas rattan from Ethiopia. Woven with rattan.,basketry,rattan,Ethiopia,4443,BRAND-174,False
+GN-BAS-0450,Mango seagrass gift basket,Imported Mango seagrass from Dubai. Woven with seagrass.,basketry,seagrass,Dubai,6856,BRAND-109,False
+GN-JEW-0451,Forever 21 plastic ring set,Imported Forever 21 plastic jewellery from Kenya. Made with plastic.,jewellery,plastic,Kenya,2892,BRAND-569,False
+GN-HOM-0452,Zara metal vase,Imported Zara metal home decor from Nigeria. Made with metal.,home-decor,metal,Nigeria,11009,BRAND-736,False
+GN-APP-0453,H&M denim trousers,Imported H&M denim from Ethiopia. Made with denim for everyday wear.,apparel,denim,Ethiopia,12688,BRAND-676,False
+GN-HOM-0454,Walmart MDF wall art,Imported Walmart MDF home decor from Ethiopia. Made with MDF.,home-decor,MDF,Ethiopia,8013,BRAND-202,False
+GN-LEA-0455,Zara synthetic-leather leather bag,Imported Zara synthetic-leather leather product from India. Made with synthetic-leather.,leather,synthetic-leather,India,19934,BRAND-175,False
+GN-HOM-0456,Amazon Basics glass vase,Imported Amazon Basics glass home decor from Dubai. Made with glass.,home-decor,glass,Dubai,10507,BRAND-650,False
+GN-JEW-0457,Zara glass ring set,Imported Zara glass jewellery from India. Made with glass.,jewellery,glass,India,4933,BRAND-318,False
+GN-LEA-0458,Forever 21 faux-leather leather wallet,Imported Forever 21 faux-leather leather product from Vietnam. Made with faux-leather.,leather,faux-leather,Vietnam,7801,BRAND-618,False
+GN-HOM-0459,H&M glass candle holder,Imported H&M glass home decor from Bangladesh. Made with glass.,home-decor,glass,Bangladesh,11643,BRAND-371,False
+GN-HOM-0460,Amazon Basics MDF table mat,Imported Amazon Basics MDF home decor from Tanzania. Made with MDF.,home-decor,MDF,Tanzania,6869,BRAND-235,False
+GN-JEW-0461,Forever 21 glass anklet,Imported Forever 21 glass jewellery from Kenya. Made with glass.,jewellery,glass,Kenya,9907,BRAND-457,False
+GN-LEA-0462,Shein faux-leather leather shoes,Imported Shein faux-leather leather product from Dubai. Made with faux-leather.,leather,faux-leather,Dubai,9261,BRAND-170,False
+GN-BAS-0463,Walmart rattan basket,Imported Walmart rattan from Tanzania. Woven with rattan.,basketry,rattan,Tanzania,7180,BRAND-350,False
+GN-LEA-0464,Forever 21 cowhide leather shoes,Imported Forever 21 cowhide leather product from Bangladesh. Made with cowhide.,leather,cowhide,Bangladesh,21198,BRAND-478,False
+GN-APP-0465,Forever 21 cotton dress,Imported Forever 21 cotton from Uganda. Made with cotton for everyday wear.,apparel,cotton,Uganda,4031,BRAND-391,False
+GN-APP-0466,Levi's polyester dress,Imported Levi's polyester from India. Made with polyester for everyday wear.,apparel,polyester,India,7330,BRAND-261,False
+GN-JEW-0467,Mango silver-plated anklet,Imported Mango silver-plated jewellery from Bangladesh. Made with silver-plated.,jewellery,silver-plated,Bangladesh,11601,BRAND-548,False
+GN-HOM-0468,Mango glass vase,Imported Mango glass home decor from India. Made with glass.,home-decor,glass,India,6630,BRAND-953,False
+GN-APP-0469,Forever 21 acrylic jacket,Imported Forever 21 acrylic from Kenya. Made with acrylic for everyday wear.,apparel,acrylic,Kenya,3130,BRAND-656,False
+GN-APP-0470,Zara nylon apparel shirt,Imported Zara nylon from Ethiopia. Made with nylon for everyday wear.,apparel,nylon,Ethiopia,4607,BRAND-820,False
+GN-BAS-0471,H&M plastic gift basket,Imported H&M plastic from Ethiopia. Woven with plastic.,basketry,plastic,Ethiopia,2345,BRAND-409,False
+GN-HOM-0472,Mango metal wall art,Imported Mango metal home decor from Tanzania. Made with metal.,home-decor,metal,Tanzania,5394,BRAND-726,False
+GN-APP-0473,Zara cotton jacket,Imported Zara cotton from Kenya. Made with cotton for everyday wear.,apparel,cotton,Kenya,2306,BRAND-926,False
+GN-BAS-0474,Adidas plastic storage basket,Imported Adidas plastic from Vietnam. Woven with plastic.,basketry,plastic,Vietnam,6926,BRAND-769,False
+GN-LEA-0475,Zara synthetic-leather leather shoes,Imported Zara synthetic-leather leather product from China. Made with synthetic-leather.,leather,synthetic-leather,China,20732,BRAND-641,False
+GN-JEW-0476,Nike gold-plated anklet,Imported Nike gold-plated jewellery from India. Made with gold-plated.,jewellery,gold-plated,India,13926,BRAND-108,False
+GN-LEA-0477,H&M synthetic-leather leather bag,Imported H&M synthetic-leather leather product from Bangladesh. Made with synthetic-leather.,leather,synthetic-leather,Bangladesh,15460,BRAND-783,False
+GN-HOM-0478,Amazon Basics MDF wall art,Imported Amazon Basics MDF home decor from Tanzania. Made with MDF.,home-decor,MDF,Tanzania,8570,BRAND-936,False
+GN-JEW-0479,Forever 21 plastic ring set,Imported Forever 21 plastic jewellery from India. Made with plastic.,jewellery,plastic,India,4067,BRAND-667,False
+GN-JEW-0480,Amazon Basics silver-plated necklace,Imported Amazon Basics silver-plated jewellery from Vietnam. Made with silver-plated.,jewellery,silver-plated,Vietnam,13396,BRAND-406,False
+GN-HOM-0481,Shein plastic wall art,Imported Shein plastic home decor from Dubai. Made with plastic.,home-decor,plastic,Dubai,4451,BRAND-779,False
+GN-LEA-0482,Walmart synthetic-leather leather wallet,Imported Walmart synthetic-leather leather product from Ethiopia. Made with synthetic-leather.,leather,synthetic-leather,Ethiopia,9766,BRAND-206,False
+GN-JEW-0483,Levi's silver-plated bracelet,Imported Levi's silver-plated jewellery from Tanzania. Made with silver-plated.,jewellery,silver-plated,Tanzania,13150,BRAND-999,False
+GN-JEW-0484,Forever 21 cubic-zirconia anklet,Imported Forever 21 cubic-zirconia jewellery from Vietnam. Made with cubic-zirconia.,jewellery,cubic-zirconia,Vietnam,5207,BRAND-237,False
+GN-LEA-0485,Levi's synthetic-leather leather bag,Imported Levi's synthetic-leather leather product from Nigeria. Made with synthetic-leather.,leather,synthetic-leather,Nigeria,20934,BRAND-370,False
+GN-JEW-0486,Amazon Basics cubic-zirconia ring set,Imported Amazon Basics cubic-zirconia jewellery from Ethiopia. Made with cubic-zirconia.,jewellery,cubic-zirconia,Ethiopia,11383,BRAND-218,False
+GN-APP-0487,Nike cotton trousers,Imported Nike cotton from Vietnam. Made with cotton for everyday wear.,apparel,cotton,Vietnam,6622,BRAND-209,False
+GN-BAS-0488,H&M bamboo storage basket,Imported H&M bamboo from China. Woven with bamboo.,basketry,bamboo,China,1656,BRAND-860,False
+GN-JEW-0489,H&M plastic anklet,Imported H&M plastic jewellery from Bangladesh. Made with plastic.,jewellery,plastic,Bangladesh,8715,BRAND-666,False
+GN-LEA-0490,Adidas faux-leather leather shoes,Imported Adidas faux-leather leather product from Nigeria. Made with faux-leather.,leather,faux-leather,Nigeria,22670,BRAND-259,False
+GN-LEA-0491,Nike synthetic-leather leather shoes,Imported Nike synthetic-leather leather product from Dubai. Made with synthetic-leather.,leather,synthetic-leather,Dubai,9707,BRAND-378,False
+GN-JEW-0492,Walmart cubic-zirconia earrings,Imported Walmart cubic-zirconia jewellery from Vietnam. Made with cubic-zirconia.,jewellery,cubic-zirconia,Vietnam,2317,BRAND-388,False
+GN-HOM-0493,Levi's MDF candle holder,Imported Levi's MDF home decor from Dubai. Made with MDF.,home-decor,MDF,Dubai,8448,BRAND-719,False
+GN-APP-0494,Shein cotton jacket,Imported Shein cotton from Ethiopia. Made with cotton for everyday wear.,apparel,cotton,Ethiopia,13246,BRAND-315,False
+GN-HOM-0495,Walmart glass vase,Imported Walmart glass home decor from Uganda. Made with glass.,home-decor,glass,Uganda,10805,BRAND-834,False
+GN-JEW-0496,Levi's gold-plated bracelet,Imported Levi's gold-plated jewellery from Tanzania. Made with gold-plated.,jewellery,gold-plated,Tanzania,13265,BRAND-451,False
+GN-JEW-0497,H&M gold-plated earrings,Imported H&M gold-plated jewellery from Bangladesh. Made with gold-plated.,jewellery,gold-plated,Bangladesh,9119,BRAND-308,False
+GN-JEW-0498,Forever 21 gold-plated earrings,Imported Forever 21 gold-plated jewellery from Dubai. Made with gold-plated.,jewellery,gold-plated,Dubai,4999,BRAND-803,False
+GN-LEA-0499,Forever 21 cowhide leather shoes,Imported Forever 21 cowhide leather product from Vietnam. Made with cowhide.,leather,cowhide,Vietnam,7158,BRAND-749,False
+GN-JEW-0500,Zara silver-plated necklace,Imported Zara silver-plated jewellery from Vietnam. Made with silver-plated.,jewellery,silver-plated,Vietnam,8189,BRAND-973,False
