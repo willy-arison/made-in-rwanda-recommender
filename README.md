@@ -110,7 +110,7 @@ See dispatcher.md for the complete business plan, including:
 
 ## 4-Minute video submission
 
-Video URL: [Add your video URL here after recording]
+Video URL: https://drive.google.com/file/d/1-AH-VqkFEd4JgDGvJL-81qqfYgLhOV52/view?usp=drive_link
 
 Video structure (4 minutes total):
 - 0:00-0:30: Introduction with name, challenge ID, and scores
